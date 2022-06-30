@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+ .Student-Section {
+  display: flex;
+  justify-content: space-around;
+ }
